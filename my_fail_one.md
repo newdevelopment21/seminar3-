@@ -70,3 +70,5 @@ git merge task
 
 git branch -d task
 
+## Удаленные репозитории
+
